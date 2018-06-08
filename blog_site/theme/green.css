@@ -1,0 +1,95 @@
+.headersection,.footersection{
+		background: #007000 none repeat scroll 0 0;
+
+	}
+.icon a {
+  background: none repeat scroll 0 0 #2d9d2d;
+  
+}
+.searchbtn input[type="text"] {
+  background: none repeat scroll 0 0 #55c555;
+  border: 1px solid #003a00;
+ 
+}
+
+.searchbtn input[type="submit"] {
+  border: 1px solid #007000;
+ 
+}
+.searchbtn input[type="submit"]:hover{
+  background: none repeat scroll 0 0 #005600;
+  border: 1px solid #52c252;
+ 
+}
+input[type="submit"] {
+  background: none repeat scroll 0 0 #005e00;
+  border: 1px solid #007000;
+  
+}
+.navsection {
+  background: none repeat scroll 0 0 #35a535;
+}
+
+.navsection ul li {
+  border-left: 1px solid #007000;
+  border-right: 1px solid #38a838;
+}
+.samepost h2 a {
+  color: #007000;
+}
+.maincontent,.sidebar {
+  background: none repeat scroll 0 0 #c9ffc9;
+}
+.samepost img {
+  border: 1px solid #35a535;
+}
+.contentsection {
+  border: 1px solid #35a535;
+}
+.samesidebar h2 {
+  background: none repeat scroll 0 0 #35a535;
+  border-bottom: 2px solid #007000;
+  color:#fff;
+}
+.readmore a {
+  border: 1px solid #35a535;
+  color: #35a535;
+}
+.readmore a:hover{
+  color: #007000;
+}
+.pagination a {
+  background: none repeat scroll 0 0 #35a535;
+  border: 1px solid #007000;
+  color:#000;
+}
+.footermenu ul li a {
+  color: #000;
+}
+.samepost h2, .about h2 {
+  color: #007000;
+}
+.about img {
+  border: 1px solid #007000;
+}
+.relatedpost h2 {
+  background: none repeat scroll 0 0 #35a535;
+  border-bottom: 2px solid #007000 !important;
+}
+.samesidebar ul li {
+  border-bottom: 1px dashed #35a535;
+}
+.samesidebar ul li a {
+  color: #007000;
+ 
+}
+.samesidebar ul li a:hover{
+	color:#007000;
+}
+.popular img {
+ border: 1px solid #007000;
+  
+}
+.popular h3 {
+  border-bottom: 1px dashed #35a535;
+}
